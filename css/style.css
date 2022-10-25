@@ -1,0 +1,31 @@
+.caja {
+  background-color: yellow;
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  margin: 50px 10px;
+}
+.inline-block {
+  display: inline-block;
+}
+
+div {
+  margin: 10px;
+  border: 3px solid black;
+  padding: 10px;
+}
+
+div div {
+  border: none;
+  background-color: lightblue;
+}
+
+.recuadro {
+  width: 300px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 100px;
+  border-radius: 20px;
+  background-color: grey;
+}

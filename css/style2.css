@@ -1,0 +1,53 @@
+.recuadro {
+  width: 250px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.shadow {
+  background-color: lightgray;
+  box-shadow: inset 0px -4px 53px 0px rgba(255, 5, 5, 5);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.sombreado-externo {
+  box-shadow: 10px 2px 47px 10px rgba(255, 214, 10, 0.98);
+}
+
+.container {
+  text-align: center;
+  margin: 50px;
+  padding: 10px;
+}
+
+.container div {
+  background-color: #ccc;
+  border: 2px solid black;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 30px;
+}
+
+.caja1 {
+  box-shadow: -2px -2px 0 0 rgba(0, 0, 0, 1);
+}
+
+.caja2 {
+  box-shadow: -2px -2px 5px 0 rgba(0, 0, 0, 1);
+}
+
+.caja3 {
+  box-shadow: -2px -2px 0 2px rgba(0, 0, 0, 1);
+}
+
+.caja4 {
+  box-shadow: -2px -2px 5px 2px rgba(0, 0, 0, 1);
+}
+
+.caja5 {
+  box-shadow: -0px -0px 4px 2px rgba(0, 0, 0, 0.5);
+}
+
+.caja6 {
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 1);
+}

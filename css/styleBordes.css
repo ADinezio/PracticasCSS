@@ -1,0 +1,49 @@
+.contenedor {
+  text-align: center;
+}
+div div {
+  background-color: yellow;
+  border: 3px solid black;
+  display: inline-block;
+  margin: 20px;
+  padding: 10px 30px;
+}
+
+.caja1 {
+  border-radius: 5px;
+}
+
+.caja2 {
+  border-top-left-radius: 40%;
+}
+.caja3 {
+  border-radius: 10px;
+}
+.caja4 {
+  border-radius: 80px 20px;
+}
+.caja5 {
+  border-radius: 20px;
+}
+.caja6 {
+  border-radius: 60px 20px 5px;
+}
+.caja7 {
+  border-radius: 40px;
+}
+.caja8 {
+  border-radius: 60px 20px 5px 90px;
+}
+.caja9 {
+  border-radius: 60px;
+}
+.caja10 {
+  border-radius: 60px/20px;
+}
+.caja11 {
+  border: 6px double red;
+  border-radius: 13em/3em;
+}
+.caja12 {
+  border-radius: 50%;
+}
